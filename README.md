@@ -3,6 +3,6 @@
 长期会改动，故没有优化。若此方法不行，请及时通知本人email:arrayFilter@gmail.com。
 中国天气网的弱智、无论他们怎么改我都能找到
 使用方法
-api?city_name=上海
+api.php?city_name=上海
 
 觉得好打星
