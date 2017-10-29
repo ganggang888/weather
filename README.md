@@ -6,3 +6,9 @@
 api.php?city_name=上海
 
 觉得好打星
+
+
+#php源代码加密#
+此种方式较难破解
+使用方法 php entry.php do
+会遍历目录下所有php文件并进行加密，生成对应的_temp文件
